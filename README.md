@@ -1,9 +1,11 @@
-I'm Frank. My goal is to work as a full-time software engineer.
+I’m passionate about big challenges, I love building things that can potentially revolutionize the world, that’s how I first got in contact with programming at my Industrial Engineer degree.
+
+My name is Fabiano Frank and my goal is to be a Full-Stack Software Engineer.
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabianofrank&show_icons=true&theme=dark&locale=en&layout=compact" alt="fabianofrank" height="150"/>
 </p>
-
+</n>
 ### Getting in touch
 
 <a href="https://twitter.com/fabianofrank" title="Follow me on Twitter">
