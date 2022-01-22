@@ -6,6 +6,9 @@ My name is Fabiano Frank and my goal is to be a Full-Stack Software Engineer.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabianofrank&show_icons=true&theme=dark&locale=en&layout=compact" alt="fabianofrank" height="150"/>
 </p>
 
+<br />
+<br />
+
 ### Getting in touch
 
 <a href="https://twitter.com/fabianofrank" title="Follow me on Twitter">
