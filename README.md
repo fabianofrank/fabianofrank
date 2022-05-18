@@ -1,29 +1,33 @@
-# Hi there 👋, I'm Fabiano Frank or just Frank
+<h1 style="font-size:132px;">Hi there, I'm Frank 👋</h1>
+I'm a remote Full-stack web developer
 
 <!-- <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="360" align="right"> -->
 
-- **💻 I'm a Full-stack developer**   
-- **🌱 I’m currently learning at** ![](https://img.shields.io/badge/Microverse-blueviolet)
+<h3>About me:</h3>
+   
+
 - 💻 Code: JavaScript, React & Redux, Ruby & Rails, HTML/CSS, Bootstrap, PostgreSQL
-- 👯 Degrees: Bachelor's Industrial Engineering
-- **💬 Ask me about back-end track**
+- 👯 Have a degree in **Industrial Engineering**
+- **🌱 I’m currently learning at** ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Getting in touch
-
-<a href="https://twitter.com/fabianofrank" title="Follow me on Twitter">
-  <img
-    width="24"
-    alt="Follow me on Twitter"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
-  /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/fabianofrank/" title="Follow me on LinkedIn">
-  <img
-    width="24"
-    alt="Follow me on LinkedIn"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
-  /></a>
-&nbsp;
+<h3>Connect with me:</h3>
+<p>
+  &nbsp;
+  <a href="https://twitter.com/fabianofrankk" title="Follow me on Twitter">
+    <img
+      width="24"
+      alt="Follow me on Twitter"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+    /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/fabianofrank/" title="Follow me on LinkedIn">
+    <img
+      width="24"
+      alt="Follow me on LinkedIn"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    /></a>
+  &nbsp;
+</p>
 
 ## Stats
 [![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianofrank&show_icons=true&theme=tokyonight)](https://github.com/fabianofrank/github-readme-stats)
