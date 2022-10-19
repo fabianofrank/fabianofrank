@@ -1,32 +1,30 @@
-<h1 style="font-size:132px;">Hi there, I'm Frank 👋</h1>
-I'm a remote Full-stack web developer
+# Hi there, I'm Frank 👋
 
-<!-- <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="360" align="right"> -->
+# I'm a remote Full-stack Web Developer
 
 <h3>About me:</h3>
    
 
 - 💻 Code: JavaScript, React & Redux, Ruby & Rails, HTML/CSS, Bootstrap, PostgreSQL
+- 🔭 I’m currently working on [Open Source Projects](https://github.com/basem909/Book-club-api)
 - 👯 Have a degree in **Industrial Engineering**
-- **🌱 I’m currently learning at** ![](https://img.shields.io/badge/Microverse-blueviolet)
+- **🌱 Bootcamp completed at** ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 <h3>Connect with me:</h3>
 <p>
-  &nbsp;
-  <a href="https://twitter.com/fabianofrankk" title="Follow me on Twitter">
-    <img
-      width="24"
-      alt="Follow me on Twitter"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-    /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/fabianofrank/" title="Follow me on LinkedIn">
-    <img
-      width="24"
-      alt="Follow me on LinkedIn"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    /></a>
-  &nbsp;
+   &nbsp;
+   <a href="https://github.com/fabianofrank/" target="_blank">
+      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+   </a>
+   &nbsp;
+   <a href="https://twitter.com/fabianofrankk/" target="_blank">
+      <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+   </a>
+   &nbsp;
+  <a href="https://www.linkedin.com/in/fabianofrank/" target="_blank">
+      <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+   </a> 
+   &nbsp;
 </p>
 
 ## Stats
