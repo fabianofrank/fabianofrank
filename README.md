@@ -5,7 +5,7 @@
 <h3>About me:</h3>
    
 
-- 💻 Code: JavaScript, React & Redux, Ruby & Rails, HTML/CSS, Bootstrap, PostgreSQL
+- 💻 Code: JavaScript, React & Redux, Ruby & Rails, HTML/CSS, Tailwind, PostgreSQL
 - 🔭 I’m currently working on [Open Source Projects](https://github.com/basem909/Book-club-api)
 - 👯 Have a degree in **Industrial Engineering**
 - **🌱 Bootcamp completed at** ![](https://img.shields.io/badge/Microverse-blueviolet)
