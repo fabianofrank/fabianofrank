@@ -6,7 +6,7 @@
    
 
 - 💻 Code: JavaScript, React & Redux, Ruby & Rails, HTML/CSS, Tailwind, PostgreSQL
-- 🔭 I’m currently working on [Open Source Projects](https://github.com/basem909/Book-club-api)
+- 🔭 I’m currently working at GoodSoftwareDev, an US company, executing a project for an Australian client as Frontend Lead
 - 👯 Have a degree in **Industrial Engineering**
 - **🌱 Bootcamp completed at** ![](https://img.shields.io/badge/Microverse-blueviolet)
 
