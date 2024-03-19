@@ -19,22 +19,10 @@
    </a> 
 </p>
 
-## 📊 GitHub Stats
-
-<!-- GitHub Stats - Compact Layout -->
-[![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabianofrank&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=issues,contribs)](https://github.com/fabianofrank/github-readme-stats)
+## 🛠️ My favorite tools & technologies
 
 <!-- Most Used Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianofrank&theme=vision-friendly-dark&layout=compact)](https://github.com/fabianofrank/github-readme-stats)
-
-<!-- GitHub Streak Stats - to show your consistency -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabianofrank&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!-- Contribution Graph - to visualize your activity -->
-![Frank's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabianofrank&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)
-
-
-## 🛠️ My favorite tools & technologies
 
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
