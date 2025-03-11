@@ -1,7 +1,5 @@
-## 👨🏻‍💻 Atlanatho Solutions
-
-Hi there 👋🏻  
-I’m Fabiano Frank, founder of Atlanatho Solutions and a React Ecosystem Specialist. With years of experience building top-tier frontend solutions, I’m now taking on new projects and consulting gigs directly with clients.
+## I’m Frank, a React Ecosystem Specialist.
+With years of experience building top-tier frontend solutions, I’m now taking on new projects and consulting gigs directly with clients.
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white"/> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
@@ -25,4 +23,4 @@ I’m Fabiano Frank, founder of Atlanatho Solutions and a React Ecosystem Specia
    </a>
 </p>
 
-<em>Your frontend, built with power—let’s start now!</em>
+<em>Your vision, built with power—let’s start now!</em>
